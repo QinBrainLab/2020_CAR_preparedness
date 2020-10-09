@@ -1,9 +1,4 @@
-# 2020_CAR_prepaedeness
-Codes for CAR prepaedeness project
-
-# 2020_CAR_preparedness  
-
-## Checklist for Data Analysis Conducted in The Manuscript  
+# Checklist for Data Analysis Conducted in The Manuscript  
 Lead author(s): Bingsen Xiong  
 Created by Bingsen Xiong on June, 2020; Updated by July 13, 2020
 ## Manuscript path  
