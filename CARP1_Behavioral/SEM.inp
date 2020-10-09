@@ -1,0 +1,15 @@
+DATA:
+    FILE IS CHSWM.dat;
+    FORMAT IS free;
+VARIABLE:
+    NAMES        ARE car brain acc;
+    USEVARIABLES ARE car brain acc;
+ANALYSIS:
+    Bootstrap = 5000;
+MODEL:
+    brain on car; 
+    acc on brain car;     
+MODEL INDIRECT:
+    acc ind brain car;
+OUTPUT:
+    standardized CINTERVAL(BCBOOTSTRAP);
