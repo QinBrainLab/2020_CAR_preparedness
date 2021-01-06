@@ -1,3 +1,21 @@
+# System Requirements
+## Hardware Requirements
+The lol package requires only a standard computer with enough RAM to support the operations defined by a user. For minimal performance, this will be a computer with about 2 GB of RAM. For optimal performance, we recommend a computer with the following specs:
+
+RAM: 16+ GB
+CPU: 4+ cores, 3.3+ GHz/core
+
+The runtimes below are generated using a computer with the recommended specs (16 GB RAM, 4 cores@3.3 GHz) and internet of speed 25 Mbps.
+
+## Software Requirements
+OS Requirements
+The package development version is tested on Linux operating systems. The developmental version of the package has been tested on the following systems:
+
+Linux: Ubuntu 16.04
+
+which should install in about 20 seconds.
+
+
 # Checklist for Data Analysis Conducted in The Manuscript  
 Lead author(s): Bingsen Xiong  
 Created by Bingsen Xiong on June, 2020; Updated by July 13, 2020
